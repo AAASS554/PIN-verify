@@ -1,0 +1,43 @@
+# 配置文件
+config.ini
+*.conf
+.env
+
+# 数据库文件
+*.db
+*.sqlite
+*.sqlite3
+
+# 密钥文件
+*.key
+*.pem
+*.cert
+
+# 日志文件
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.idea/
+.vscode/ 

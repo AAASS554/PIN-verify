@@ -22,7 +22,7 @@
 ### 安装说明
 1. 克隆仓库
 ```bash
-[git clone https://github.com/yourusername/license-key-system.git](https://github.com/AAASS554/PIN-verify.git)
+git clone https://github.com/yourusername/license-key-system.git
 ```
 
 2. 安装依赖
@@ -102,7 +102,7 @@ This is a License Key Management System developed with PyQt5, including two main
 ### Installation
 1. Clone repository
 ```bash
-[git clone https://github.com/yourusername/license-key-system.git](https://github.com/AAASS554/PIN-verify.git)
+git clone https://github.com/yourusername/license-key-system.git
 ```
 
 2. Install dependencies
